@@ -14,7 +14,15 @@ body {
 
 
 
-
+/***header***/
+#header {
+    width: 100%;
+    min-width: 980px;
+    height: 82px;
+    background-color: #3b5998;
+    background: linear-gradient(#ccc, #3b5998);
+    border-bottom: 1px solid #133783;
+}
 
 .float-left {
     float: left;
