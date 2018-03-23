@@ -1,0 +1,13 @@
+﻿/***removing body margin***/
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+/***general***/
+.container {
+    width: 980px;
+    margin: 0 auto;
+    height: auto;
+    overflow: auto;
+}
